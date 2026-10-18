@@ -1,12 +1,12 @@
-# Online / Offline / Hybrid
+# Online / Präsenz / Hybrid
 
 ### Online
 
-Falls ihr eure Sessions online (oder hybrid; s.u.) durchführt, bekommt ihr hierfür Zoom-Lizenzen zur Verfügung gestellt (siehe Einrichten des Zoom-Meetings).
+Falls ihr eure Sessions online (oder hybrid; s.u.) durchführt, bekommt ihr hierfür Zoom-Lizenzen zur Verfügung gestellt (siehe [Einrichten des Zoom-Meetings](einrichten-des-zoom-meetings.md)).
 
 ### Offline
 
-Für die Durchführung von Kursen in Präsenz haben wir derzeit vier Locations zur Verfügung:
+Für die Durchführung von Kursen in Präsenz stehen derzeit vier Locations zur Verfügung:
 
 {% tabs %}
 {% tab title="Starterkitchen" %}
@@ -26,8 +26,10 @@ Für die Durchführung von Kursen in Präsenz haben wir derzeit vier Locations z
 {% endtab %}
 {% endtabs %}
 
-Wenn externe Speaker in eure Kurse eingebunden sind, sollten die Kurse (falls möglich) vorzugsweise im Unternehmen vor Ort stattfinden.
+Wenn externe Referent:innen in eure Kurse eingebunden sind, sollten die jeweiligen Termine (falls möglich) vorzugsweise im Unternehmen vor Ort stattfinden.
+
+Den Ort tragt ihr in der Kursverwaltung im Tab **„Beschreibung“** unter **„Veranstaltungsort“** ein. Weicht ein einzelner Termin davon ab, könnt ihr im Tab **„Termine“** eine eigene Adresse dafür angeben.
 
 ### Hybrid
 
-Für die Durchführung von Kursen im Hybrid-Format (d.h. sowohl Präsenz- als auch Online-Teilnahme möglich) können ebenfalls die oben genannten Räume genutzt werden. Bezüglich der technischen Durchführung stellen wir ein mobiles Set mit Kamera und Mikrofon zur Verfügung. In der Starterkitchen wird zudem ein Setting zur Durchführung von Hybrid-Sessions fest installiert.
+Für die Durchführung von Kursen im Hybrid-Format (d. h. sowohl Präsenz- als auch Online-Teilnahme möglich) können ebenfalls die oben genannten Räume genutzt werden. Tragt dafür in EduHub beide Veranstaltungsorte ein, den Präsenzort und „Online“ mit eurem Zoom-Link. Bezüglich der technischen Durchführung stellen wir ein mobiles Set mit Kamera und Mikrofon zur Verfügung. In der Starterkitchen wird zudem ein Setting zur Durchführung von Hybrid-Sessions fest installiert.

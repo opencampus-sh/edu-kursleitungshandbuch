@@ -2,7 +2,9 @@
 
 ### Anlegen von externen Referent:innen
 
-Über das Pluszeichen im Tab "Termine" in der Spalte "Externe Referenten" könnt ihr externe Referent:innen zu den jeweiligen Terminen hinzufügen, damit diese öffentlich angezeigt werden inkl. ihrem ggf. hinzugefügtem Link zu Linkedin/Website. Dafür ist es nötig, dass die jeweiligen Referent:innen einen Account im EduHub erstellt haben.
+Im Tab **„Termine“** klappt ihr den jeweiligen Termin auf und fügt über das Pluszeichen **„Externen Referenten hinzufügen“** eure Referent:innen hinzu. Sie werden dann öffentlich beim Termin angezeigt, inkl. ihres ggf. hinterlegten Links zu LinkedIn oder einer Website.
+
+Hat die Person noch keinen EduHub-Account, legt ihr ihn im selben Dialog über **„Neuen Benutzer hinzufügen“** an. Die Person erhält dann eine E-Mail, um ihr Passwort festzulegen.
 
 ### Dankeschön-Geschenke für externe Referent:innen
 
