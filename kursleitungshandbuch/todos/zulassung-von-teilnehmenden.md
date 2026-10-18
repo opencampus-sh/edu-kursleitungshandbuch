@@ -1,25 +1,35 @@
-# Zulassung von Teilnehmenden
+# Bewertung von Bewerbungen
 
-Die Zulassung von Teilnehmenden erfolgt auf Basis der Motivationsschreiben der Bewerber:innen und wird über die EDU-Plattform durchgeführt.\
-Sobald erste Bewerbungen da sind, erscheint in eurer Kursansicht eine Liste mit Bewerber:innen, über die ihr Namen und die jeweiligen Motivationsschreiben der Bewerber:innen einsehen könnt.
+Die Zulassung von Teilnehmenden erfolgt auf Basis der Motivationsschreiben der Bewerber:innen und wird über EduHub durchgeführt.\
+Sobald erste Bewerbungen da sind, erscheinen sie in eurer Kursverwaltung im Tab **„Bewerbungen“**. Dort könnt ihr die Namen und Motivationsschreiben der Bewerber:innen einsehen.
 
 ### Bewertung von Motivationsschreiben
 
-In der Ansicht, in der das Motivationsschreiben dargestellt wird, könnt ihr oben eine Beurteilung auswählen:
+Klappt eine Bewerbung auf, um das Motivationsschreiben zu lesen, und wählt eine Bewertung aus:
 
-* unbewertet (grauer Punkt)
-* ablehnen (roter Punkt)
-* unsicher (oranger Punkt)
-* zulassen (grüner Punkt)
+| Bewertung      | Farbe  | Taste |
+| -------------- | ------ | ----- |
+| **Einladen**   | grün   | 1     |
+| **Unklar**     | orange | 2     |
+| **Ablehnen**   | rot    | 3     |
+| **Unbewertet** | grau   | 0     |
 
-### Versenden von Ab- und Zusagen
+{% hint style="info" %}
+Mit den Tasten **J** und **K** springt ihr zur nächsten bzw. vorherigen Bewerbung. So könnt ihr viele Bewerbungen schnell nacheinander bewerten.
+{% endhint %}
 
-Die Bewerber:innen, die ihr mit grün eingestuft habt, werden wir dann zulassen und den Bewerber:innen, die ihr als rot eingestuft habt, werden wir eine Absage zuschicken. Für die Bewerber:innen, die als orange oder grau von euch eingestuft wurden, werden wir über die Zulassung entscheiden.
+### Versenden von Einladungen und Absagen
 
-Solltet ihr keine Entscheidung über die Bewerber:innen getroffen haben, dann entscheiden wir über die Einstufung und Zulassung.
+Auf Basis eurer Bewertung verschickt das opencampus-Team die Einladungen und Absagen:
 
-In manchen Ausnahmefällen ändern wir die vorgenommene Einstufung von euch, wenn wir weitere Informationen über die jeweiligen Bewerber:innen haben, die wichtig sind für eine Zusage/Absage.
+* Bewerber:innen mit **grüner** Bewertung laden wir ein, solange es freie Plätze gibt. Wir laden nie mehr Personen ein, als euer Kurs Plätze hat (siehe „Max. Teilnehmendenanzahl“ in [Kursbeschreibung & Termine](kursbeschreibung.md)).
+* Bewerber:innen mit **roter** Bewertung erhalten eine Absage.
+* Über **orange** oder **grau** bewertete Bewerbungen entscheiden wir. Das gilt auch, wenn ihr keine Bewertung vornehmt.
 
-Das Versenden der Zusagen und der Absagen erfolgt in unregelmäßigen Abständen durch das OC-Team bis zum Bewerbungsende. Falls nach Bewerbungsende noch Teilnehmende in den Kurs aufgenommen werden sollen, kontaktiert einfach das OC-Team. Wir können weitere Interessierte nachträglich eurem Kurs hinzufügen, wenn diese einen EduHub-Account haben.
+In manchen Ausnahmefällen ändern wir eure Einstufung, wenn wir weitere Informationen über die jeweiligen Bewerber:innen haben, die für eine Zusage oder Absage wichtig sind.
 
-Schaut daher bitte regelmäßig ab Bewerbungsstart in die Liste der Bewerber:innen, um diese einzustufen. Bitte achtet auf die Frist für den Bewerbungsschluss.
+Einladungen sind befristet: Wer die Einladung nicht rechtzeitig annimmt, verliert den Platz, und wir können ihn an weitere Bewerber:innen vergeben.
+
+Das Versenden erfolgt in mehreren Runden bis zur Kursanmeldefrist. Schaut daher bitte ab dem Anmeldestart regelmäßig in die Liste der Bewerber:innen, um diese einzustufen, und achtet auf die Kursanmeldefrist.
+
+Falls nach der Kursanmeldefrist noch Teilnehmende in den Kurs aufgenommen werden sollen, kontaktiert einfach das opencampus-Team. Wir können weitere Interessierte nachträglich eurem Kurs hinzufügen, wenn diese einen EduHub-Account haben.

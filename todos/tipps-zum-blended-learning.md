@@ -1,13 +1,13 @@
 # Tipps zum Unterricht mit Online-Kursen
 
-Die Tipps beziehen sich hier insbesondere auf Kurse, bei denen die Lerninhalte durch Massive Open Online Courses (MOOCs) gegeben sind und in den wöchentlichen Treffen Aufgaben und Probleme besprochen werden und die Durchführung der Projekte begeleitet wird (häufig auch als eine Form des Blended Learning oder Flipped Classroom bezeichnet).
+Die Tipps beziehen sich hier insbesondere auf Kurse, bei denen die Lerninhalte durch Massive Open Online Courses (MOOCs) gegeben sind und in den wöchentlichen Treffen Aufgaben und Probleme besprochen werden und die Durchführung der Projekte begleitet wird (häufig auch als eine Form des Blended Learning oder Flipped Classroom bezeichnet).
 
 {% hint style="warning" %}
 **Grundsätzlich ist es bei diesem Ansatz wichtig, dass man in den wöchentlichen Sessions nicht die Inhalte der Lernvideos der vergangenen Woche zusammenfasst. Den Teilnehmenden muss klar sein, dass eine Teilnahme nur dann Sinn macht, wenn sie die Videos gesehen haben.**
 {% endhint %}
 
 {% hint style="info" %}
-Onlinekurse sind Lernmaterial, aber kein Leistungsnachweis mehr – die Prüfungsleistung ist immer ein Projekt (siehe [Prüfungsleistungen für Teilnehmende](vergabe-von-bescheinigungen-und-zertifikaten.md)).
+Onlinekurse sind Lernmaterial, aber kein Leistungsnachweis mehr – die Prüfungsleistung ist immer ein Projekt (siehe [Projekte & Prüfungsleistungen](tipps-zur-durchfuehrung-interner-projekte.md)).
 {% endhint %}
 
 ### Vorschlag für den prototypischen Ablauf einer Session
@@ -33,10 +33,10 @@ Onlinekurse sind Lernmaterial, aber kein Leistungsnachweis mehr – die Prüfung
 #### 3. Besprechung der Übungsaufgaben
 
 * Vorbereitung einer Musterlösung durch die Kursleitung
-* Die Kursleitung teilt seine Musterlösung per Screenshare und fordert für die verschiedenen Abschnitte Teilnehmende auf, diese zu erklären.
+* Die Kursleitung teilt ihre Musterlösung per Screenshare und fordert für die verschiedenen Abschnitte Teilnehmende auf, diese zu erklären.
 * Fertige Musterlösungen der Übungsaufgaben dürfen nicht im Chat geteilt werden.
 
 #### 4. Sonstiges
 
-* Besprechung der durchzuführenden Projekte (siehe [Tipps zur Durchführung interner Projekte](tipps-zur-durchfuehrung-interner-projekte.md))
+* Besprechung der durchzuführenden Projekte (siehe [Projekte & Prüfungsleistungen](tipps-zur-durchfuehrung-interner-projekte.md))
 * Lerninhalte, die nicht im Rahmen des Kurses behandelt werden, aber etwa für die Durchführung der Praxisprojekte hilfreich sind.

@@ -5,7 +5,7 @@ Wenn euer Kurs online oder hybrid durchgeführt wird, erhaltet ihr vor Start des
 Bitte ladet die Zoom-App herunter und nutzt diese für die Durchführung der Kurse. Bitte aktualisiert diese ggf. vor Semesterbeginn, damit ihr die neueste Version zur Verfügung habt.
 
 {% hint style="danger" %}
-**Bitte legt für euren Kurs ein wiederkehrendes Zoom-Meeting und benennt es so, dass es eurem Kurs eindeutig zuzuordnen ist. Dies ist wichtig für die automatische Erfassung der Anwesenheiten. Benutzt dieses Zoom-Meeting bitte nur zur Durchführung des wöchentlichen Kurses! Wenn ihr euren Zoom-Account auch für andere Meetings nutzen wollt, könnt ihr das natürlich tun. Dies sollte dann aber über eine anderes Zoom-Meeting erfolgen.**
+**Bitte legt für euren Kurs ein wiederkehrendes Zoom-Meeting an und benennt es so, dass es eurem Kurs eindeutig zuzuordnen ist. Dies ist wichtig für die automatische Erfassung der Anwesenheiten. Benutzt dieses Zoom-Meeting bitte nur zur Durchführung des wöchentlichen Kurses! Wenn ihr euren Zoom-Account auch für andere Meetings nutzen wollt, könnt ihr das natürlich tun. Dies sollte dann aber über ein anderes Zoom-Meeting erfolgen.**
 {% endhint %}
 
 Das Einrichten des wiederkehrenden wöchentlichen Zoom-Meetings ist im Screenshot unten beispielhaft dargestellt. Die gewählten Einstellungen sind von uns empfohlen, ihr könnt aber natürlich davon abweichen.
@@ -16,9 +16,7 @@ Das Einrichten des wiederkehrenden wöchentlichen Zoom-Meetings ist im Screensho
 
 ### Teilen des Meetings im EduHub
 
-Bitte fügt den Link eures wiederkehrenden Zoom-Meetings im EduHub auf eurer Kursseite ein, wie im folgenden Screenshot dargestellt. Der Zoom-Link wird nur für angemeldete Teilnehmende angezeigt.
-
-<figure><img src="../.gitbook/assets/Bildschirmfoto 2023-10-03 um 15.41.49.png" alt=""><figcaption></figcaption></figure>
+Bitte tragt den Link eures wiederkehrenden Zoom-Meetings in der Kursverwaltung im Tab **„Beschreibung“** ein: Wählt beim **„Veranstaltungsort“** „Online“ und fügt den Link im Feld **„Link oder Adresse“** ein. Der Zoom-Link wird nur für angemeldete Teilnehmende angezeigt.
 
 ### Teilen des Meetings auf Element
 

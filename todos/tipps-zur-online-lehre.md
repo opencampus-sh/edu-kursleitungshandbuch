@@ -9,11 +9,15 @@ Bitte nehmt euch in der ersten Session auch noch einmal Zeit darauf hinzuweisen.
 Das nonverbale Feedback ist eine wichtige Komponente in jedem Unterricht und für jede soziale Interaktion, auch für die Kursteilnehmenden untereinander.
 {% endhint %}
 
+### Aufzeichnungen
+
+Ihr dürft eure Sessions aufzeichnen, wenn keine:r der Teilnehmenden widerspricht. Fragt deshalb zu Beginn in der Runde nach und weist darauf hin, wenn die Aufzeichnung läuft.
+
 ### Zoom
 
 * Prüft zu Semesterbeginn, ob ihr die aktuelle Zoom-App installiert habt.
 * Nutzt die Möglichkeit von Breakout-Räumen, um Arbeit in Kleingruppen zu ermöglichen, in denen sich die Teilnehmenden direkt austauschen können. Für Kleingruppen hat sich eine Größe von drei bis vier Personen als vorteilhaft erwiesen.
-* Ihr könnt Breakouträume zufällig unter Angabe der Gruppengröße definieren oder verschiedene Breakräume zur Verfügung stellen, in die die Teilnehmenden dann selbständig eintreten können.
+* Ihr könnt Breakout-Räume zufällig unter Angabe der Gruppengröße definieren oder verschiedene Breakout-Räume zur Verfügung stellen, in die die Teilnehmenden dann selbständig eintreten können.
 
 ### Motivieren von Teilnehmenden
 
