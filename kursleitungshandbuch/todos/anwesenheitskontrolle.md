@@ -10,6 +10,8 @@ Die Anwesenheit wird über die Zoom-Protokolle automatisch in EduHub erfasst (je
 **Damit die Anwesenheit erkannt wird, sollten die Teilnehmenden mit derselben E-Mail-Adresse wie im EduHub an Zoom teilnehmen oder in ihrem Zoom-Account ihren vollständigen Namen (so wie auf dem EduHub) angeben. Es reicht nicht, nur den Anzeigenamen im Meeting zu ändern. Bitte weist die Teilnehmenden darauf hin!**
 {% endhint %}
 
+Für die Anwesenheit muss die Kamera eingeschaltet sein; so steht es auch auf der Kursseite im EduHub. Ausnahme: Während einer Aufzeichnung dürfen die Teilnehmenden die Kamera ausschalten, ohne dass das als Fehlzeit zählt (siehe [Aufzeichnungen](aufzeichnungen.md)).
+
 Was Zoom zu einem Termin erfasst hat, seht ihr im Tab **„Termine“** unter **„Anwesenheitsdaten ansehen“**.
 
 ### Offline

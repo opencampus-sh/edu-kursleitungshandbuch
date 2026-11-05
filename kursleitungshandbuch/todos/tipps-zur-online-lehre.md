@@ -11,7 +11,7 @@ Das nonverbale Feedback ist eine wichtige Komponente in jedem Unterricht und fü
 
 ### Aufzeichnungen
 
-Ihr dürft eure Sessions aufzeichnen, wenn keine:r der Teilnehmenden widerspricht. Fragt deshalb zu Beginn in der Runde nach und weist darauf hin, wenn die Aufzeichnung läuft.
+Für Aufzeichnungen gelten feste Regeln, siehe [Aufzeichnungen](aufzeichnungen.md).
 
 ### Zoom
 

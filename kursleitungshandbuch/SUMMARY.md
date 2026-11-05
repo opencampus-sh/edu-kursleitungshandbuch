@@ -21,6 +21,7 @@
 * [Rund um den Kursstart](todos/ablaufplan-1.-session.md)
 * [Element-Chat](todos/anmeldung-mattermost.md)
 * [Anwesenheit](todos/anwesenheitskontrolle.md)
+* [Aufzeichnungen](todos/aufzeichnungen.md)
 
 ## Projekte & Abschluss
 
