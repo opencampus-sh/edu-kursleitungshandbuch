@@ -36,4 +36,4 @@ Wir freuen uns, wenn ihr die Teilnehmenden motiviert, sich gegenseitig vorzustel
 * Stellt einmal den Kursablauf und die Inhalte der einzelnen Termine dar.
 * Stellt die Projekte vor und nennt die Frist, bis wann Teams und Projekte in EduHub stehen müssen (siehe [Projekte & Prüfungsleistungen](tipps-zur-durchfuehrung-interner-projekte.md)).
 * Weist darauf hin, dass bei der Kursteilnahme über Zoom die Anwesenheit nur dann zuverlässig erfasst wird, wenn die Teilnehmenden mit derselben E-Mail-Adresse wie im EduHub oder mit ihrem vollständigen Namen im Zoom-Account teilnehmen (siehe [Anwesenheit](anwesenheitskontrolle.md)).
-* Wollt ihr Sessions aufzeichnen, fragt vorher in der Runde nach. Aufzeichnungen sind erlaubt, wenn keine:r der Teilnehmenden widerspricht.
+* Wollt ihr Sessions aufzeichnen, kündigt das an und haltet euch an die Regeln unter [Aufzeichnungen](aufzeichnungen.md). Widerspricht jemand, zeichnet ihr nicht auf.
